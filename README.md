@@ -10,11 +10,11 @@ Sou desenvolvedor de jogos apaixonado por dar vida a mecânicas criativas e expe
 * ⚙️ Tenho experiência na construção de mecânicas 2D e 3D, desde movimentação de personagens e sistemas lógicos até o desenvolvimento de comportamentos complexos para chefões.
 * 🛠️ Costumo criar scripts para customizar a hierarquia do Unity Editor, melhorando o fluxo de trabalho, e utilizo o **DOTween** para criar animações de interface e gameplay mais fluidas.
 * 🌍 Atualmente, estou trabalhando em um projeto pessoal **"Nome do jogo ainda não definido"**, e aprimorando meu inglês para expandir minhas referências técnicas.
-* 🎨 Gosto de buscar inspirações em jogos clássicos (como a franquias Zelda e Metroid) para pensar em level design e concept art.
+* 🎨 Gosto de buscar inspirações em jogos clássicos (como as franquias Zelda, Metroid, Mário entre outros) para pensar em level design e concept art.
 
 ### 🚀 O que estou buscando
 
-* Colaborar em projetos *indie*, participar de Game Jams e trocar conhecimentos sobre arquitetura de código na Unity.
+* Colaborar em projetos *indie*, participar de Game Jams e trocar conhecimentos sobre arquitetura de código na Unity e adquirir novas habilidades.
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=BrothersGamer&fontSize=76&fontColor=ffffff&fontAlign=53&fontAlignY=53&rotate=0&stroke=000000&strokeWidth=7&animation=fadeIn&desc=Dev&descSize=46&descAlign=10&descAlignY=0&textBg=true&color=gradient"  />
@@ -46,12 +46,6 @@ Sou desenvolvedor de jogos apaixonado por dar vida a mecânicas criativas e expe
 </div>
 
 ### 🕹️ Meus Projetos
-O jogo atual terá uma **Breve descrição e demonstração da Gameplay e mecânica**...! 
+O jogo atual terá uma **Breve descrição e demonstração da Gameplay e mecânicas**...! 
 
 <img src="gameplay.gif" width="400" alt="Demonstração de gameplay" />
-
-## 📱 Onde me encontrar
-
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) <a href="https://web.telegram.org/k/#-2296756525" />
-![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) <a href="https://www.tiktok.com/@miller.magusteiro?lang=en" />
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) <a href="https://www.instagram.com/millermagusteiro3/" >

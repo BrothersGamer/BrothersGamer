@@ -52,6 +52,6 @@ O jogo atual terá uma **Breve descrição e demonstração da Gameplay e mecân
 
 ## 📱 Onde me encontrar
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) <a href="[https://web.telegram.org/k/#-2296756525](https://web.telegram.org/k/#-2296756525)" />
-![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) <a href="[https://www.tiktok.com/@miller.magusteiro?lang=en"](https://www.tiktok.com/@miller.magusteiro?lang=en) />
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) <a href="[https://www.instagram.com/millermagusteiro3/](https://www.instagram.com/millermagusteiro3/)" >
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) <a href="https://web.telegram.org/k/#-2296756525" />
+![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) <a href="www.tiktok.com/@miller.magusteiro?lang=en" />
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) <a href="[https:///www.instagram.com/millermagusteiro3/" >
